@@ -33,36 +33,47 @@ article {
 #cougar {
 background-color: #FFBD82;
 padding: 50px;
-        }
+}
+
 #lion{
   background-color: #FFD5AE;
   padding: 50px;
-      }
+}
 
 #tiger{
   background-color: #B26219;
   padding: 50px;
-      }
+}
 
 header {
   width: auto;
   position: fixed;
-        }
+}
+
 nav {
   float: right;
-    }
+}
+
 nav ul {
   list-style: none;
   margin-top: 0;
-        }
+}
+
 nav li {
   float: left
-        }
+}
 
 footer{
  text-align: center;
  padding: 0px 450px;
-      }
+}
+
+div {
+  float: right;
+  margin: auto;
+
+}
+
 
 
 
